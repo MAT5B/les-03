@@ -1,0 +1,61 @@
+body{
+    background: rgb(235, 240, 244);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+img {
+    position: absolute;
+    right: 54px;
+    top: 234px;
+    border: 2px solid black;
+}
+
+header{
+border-top: 25px solid rgb(0, 116, 0);
+border-bottom: 25px solid rgb(134, 0, 0);
+width: 600px
+
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+padding: 30px;
+}
+
+#ingredienten{
+    max width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-bottom: 2px solid black;
+    font-size: 15px;
+}
+
+#ingrediententitel{ color: rgb(134, 0, 0);}
+
+#benodigdheden{
+    max width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    border-bottom: 2px solid black;
+    font-size: 15px;
+}
+
+#benodigdhedentitel{color: rgb(134, 0, 0);}
+
+#bereidingswijze{
+    max width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    border-bottom: 2px solid black;
+    font-size: 15px;
+}
+
+#bereidingswijzetitel{ color: rgb(134, 0, 0);}
+
+footer{
+    max width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+font-style: italic;
+color: rgb(134, 0, 0);
+font-size: 13px;
+}
